@@ -99,3 +99,4 @@ class User:
     admin: bool = False
     friends: List[int] = field(default_factory=list)
 ```
+Source: [How to use dataclasses, by DaleSeo](https://www.daleseo.com/python-dataclasses/)
