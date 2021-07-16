@@ -86,4 +86,14 @@ Input.displayName = "Input";
 
 It is mainly translate [DaleSeo](https://www.daleseo.com/react-forward-ref/)'s blog. All codes are from his blog and I retype for learning purpose.
 
+---------------------------------------------------------------------
+From here, this is my pure study part.
+
+`ref`, this is a reference an DOM element that stores a value. It is mutable, but it does not re-render the components.<br/>
+Uncontrolled VS Controlled  <br/>
+Uncontrolled component is for<br/>
+- **Extreme performance requirements**
+- Working with non-React libraries
+<br/>
+Avoiding setting state on unmounted components 
 
